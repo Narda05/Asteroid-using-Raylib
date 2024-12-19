@@ -7,6 +7,9 @@ A brief description of what this project does and who it's for
 
 - [@Narda05](https://github.com/Narda05)
 
+## 🚀Game play 
+![Recording 2024-12-18 at 19 36 12](https://github.com/user-attachments/assets/6c58873f-eadd-433d-888d-d6d249cfe470)
+
 
 ## 🛸 Your Spaceship
 
