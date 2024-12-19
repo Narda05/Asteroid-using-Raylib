@@ -1,5 +1,5 @@
 # Asteroid using Raylib
-
+This project involves the implementation of the iconic video game "Asteroids" using the Raylib graphics library. The main objective was to recreate the classic gameplay of the original title while leveraging Raylib's simplicity and efficiency for graphics development and input handling.
 
 ## Authors
 
